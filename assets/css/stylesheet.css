@@ -22,11 +22,10 @@ h1 {font-size: 30px;
     display: inline-block;
     background-color: #4aaaa5;
     color: #ffffff;
-    
-
-
-}
+ }
 h1, h2 {font-family: 'Georgia', Times, 'Times New Roman', serif;}
+
+
 
 nav a {
 text-decoration: none;
